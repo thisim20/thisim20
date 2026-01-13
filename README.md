@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I’m Thi
 
-<!--
-**thisim20/thisim20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor’s student in **Cybersecurity & Cloud Computing**  
+📡 **Cisco CCNA** (in progress – uCertify)  
+🔐 Aspiring **Cybersecurity / Network Security professional**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I’m Learning
+- Networking fundamentals (CCNA)
+- Routing & Switching
+- Subnetting & VLANs
+- Network security basics
+- Linux command line
+- Cloud fundamentals (AWS / Azure – upcoming)
+
+---
+
+## 🛠️ Tools & Technologies
+- Cisco Packet Tracer
+- Networking (TCP/IP, DNS, DHCP)
+- Linux (basic CLI)
+- Git & GitHub
+- uCertify Labs
+
+---
+
+## 📂 Labs & Projects
+- CCNA networking labs (uCertify)
+- Packet Tracer simulations
+- Network design & troubleshooting labs
+
+📌 *This GitHub will be updated as I complete labs and projects 
